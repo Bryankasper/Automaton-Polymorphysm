@@ -17,7 +17,7 @@ public:
 
 class NFA : public Automaton {
 public:
-  void makeSound() {
+  void makeFunction() {
     cout << "This sequence is a Non-Deterministic Finite automata extending the Automaton Class" << endl;
   }
 };
